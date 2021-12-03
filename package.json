@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarynaRedkina/my-test/issues"
   },
-  "homepage": "https://github.com/MarynaRedkina/my-test#readme"
+  "homepage": "https://github.com/MarynaRedkina/my-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
